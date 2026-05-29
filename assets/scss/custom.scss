@@ -1,4 +1,13 @@
-// 让页面上的所有正文段落实现两端对齐
+// --- 针对正文段落的中文排版优化 ---
 p {
+  // 1. 基础设置：两端对齐
   text-align: justify;
+  // 2. 优化中文处理：让浏览器调整汉字间的间距来实现对齐
+  text-justify: inter-ideograph;
+  // 3. 兼容性处理：确保段落内的长文本能够自动换行
+  word-break: break-word;
+  // 4. 提升英文排版：让单词可以在合适的位置断行 (需配合下面的HTML设置)
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
