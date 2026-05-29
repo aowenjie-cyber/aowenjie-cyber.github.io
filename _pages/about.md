@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Wenjie's"
+title: "Welcome to Wenjie's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
