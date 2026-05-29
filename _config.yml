@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Welcome to Wenjie's Home Page"
+title                    : "Wenjie Ao/Personal Website"
 title_separator          : "-"
 name                     : &name "Wenjie Ao"
 description              : &description "Wenjie Ao"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wenjie Ao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Research Fellow"
+  location         : "Chongqing, China"
+  employer         : "Chongqing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wenjie.ao@cqu.edu.cn" 
 
   # Academic websites
   academia         : # URL
