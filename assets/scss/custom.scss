@@ -1,4 +1,4 @@
-// --- 针对正文段落的中文排版优化 ---
+// --- 针对正文段落的终极排版优化 ---
 p {
   // 1. 基础设置：两端对齐
   text-align: justify;
@@ -10,4 +10,11 @@ p {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
+}
+
+// --- “大招”：解决最后一行无法两端对齐的问题 ---
+p:after {
+    content: "";
+    display: inline-block;
+    width: 100%;
 }
