@@ -1,13 +1,13 @@
 ---
-title: "Large-Signal Stabilization of On-Board Hybrid Power Supply Systems Supplying Constant Power Load Based on Composite Control"
+title: "燃料电池-锂电池混合供电系统的无源控制策略及参数设计方法"
 collection: publications
 category: manuscripts
-permalink: /publication/JournalPaper202601
-excerpt: 'This paper is about the prescribed performance control applied to hybrid power supply system.'
-date: 2026-05-28
-venue: 'IEEE Transactions on Industrial Electronics'
+permalink: /publication/JournalPaper202301
+excerpt: 'This paper is about the passivity-based control applied to hybrid power supply system.'
+date: 2023-03-01
+venue: '电工技术学报'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/JournalPaper202601.pdf'
+paperurl: 'https://academicpages.github.io/files/JournalPaper202301.pdf'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
