@@ -6,6 +6,8 @@ permalink: /publication/JournalPaper202601
 excerpt: 'This paper is about the prescribed performance control applied to hybrid power supply system.'
 date: 2026-05-28
 venue: 'IEEE Transactions on Industrial Electronics'
+author_profile: true
+author: Wenjie Ao
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/JournalPaper202601.pdf'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
