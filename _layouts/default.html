@@ -6,6 +6,11 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+  <style>
+  .page__content p {
+      text-align: justify;
+  }
+  </style>
   <head>
     {% include head.html %}
     {% include head/custom.html %}
