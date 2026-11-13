@@ -12,7 +12,6 @@ School of Automation, Chongqing University
 ## Email
 
 - [wenjie.ao@cqu.edu.cn](mailto:wenjie.ao@cqu.edu.cn)
-- [wenjieao@cqu.edu.cn](mailto:wenjieao@cqu.edu.cn)
 
 ## Office
 
