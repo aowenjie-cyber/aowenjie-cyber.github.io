@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Assistant Research Fellow** at the School of Automation, Chongqing University, working in Prof. Yongduan Song's team at the Institute of Systems Intelligence and Control. I joined Chongqing University in September 2025.
+I am an **Postdoc Fellow** at the School of Automation, Chongqing University, working in Prof. Yongduan Song's team at the Institute of Systems Intelligence and Control. I joined Chongqing University in September 2025.
 
 I received my Ph.D. in Control Science and Engineering from Chongqing University in 2025, supervised by Prof. Jiawei Chen, and my B.Eng. in Automation from Southeast University in 2019, advised by Prof. Jun Yang.
 
@@ -15,20 +15,21 @@ I received my Ph.D. in Control Science and Engineering from Chongqing University
 
 My research focuses on **multi-source hybrid power supply systems for transportation electrification**, particularly:
 
-- Lightweight system design and coordinated sizing and control.
-- Large-signal stability analysis, including operation under source faults.
-- Advanced control for stabilizing systems with constant-power and pulsed loads.
+- **Heterogeneous Swarm-Source Cooperative Power Supply Technology for Autonomous Unmanned Systems**
+(Energy Management, Nonlinear Control, Data-Driven Time-Series Situation Deduction).
+- **Energy Management Technology for Microgrids with Multi-Type Energy Storage Systems**
+(Multi-Time-Scale Coordinated Control and Autonomous Decision-Making, Resilience Assessment and Enhancement).
 
-My first-author work has appeared in *IEEE Transactions on Industrial Electronics*, *IEEE Journal of Emerging and Selected Topics in Power Electronics*, and *Transactions of China Electrotechnical Society*. See my [selected publications]({{ '/publications/' | relative_url }}).
-
-I have contributed to three IEEE standards and participated in research supported by the National Natural Science Foundation of China, Chongqing key R&D projects for technology innovation and application development, and industry collaborations. My [academic service]({{ '/service/' | relative_url }}) includes journal reviewing and international conference session chairing.
 
 ## Recent highlights
 
-- **2026:** Two papers in *IEEE Transactions on Industrial Electronics* on [composite control for large-signal stabilization](https://doi.org/10.1109/TIE.2026.3692833) and [stability under faults using region-of-attraction estimation](https://doi.org/10.1109/TIE.2026.3697472); the latter is listed as in press.
-- **December 2025:** Granted a Chinese invention patent on a hybrid power supply system for ultra-low-frequency variable-frequency pulsed loads, including capacity sizing and power control.
-- **September 2025:** Joined the School of Automation, Chongqing University, as an Assistant Research Fellow.
-- **August 2025:** A paper on large-signal stability analysis and improvement of fuel cell/battery/supercapacitor hybrid power systems appeared in *IEEE JESTPE*.
+- **Oct 2026:** Our paper "基于动态安全功率区间的直流微电网多源协调控制" has been accepted by *控制与决策*.
+- **Sep 2026:** Awarded the General Program of the Natural Science Foundation of Chongqing, China.
+- **Sep 2026:** Awarded the Key Program of the Open Fund, Tianjin Key Laboratory of Aeronautical Power Distribution Systems.
+- **May 2026:** Our paper "Large-Signal Stability Assessment of Onboard Hybrid Power Supply Systems Based on Region of Attraction Estimation" has been accepted by *IEEE TIE*.
+- **May 2026:** Our paper "Large-Signal Stabilization of On-Board Hybrid Power Supply Systems Supplying Constant Power Load Based on Composite Control" has been accepted by *IEEE TIE*.
+- **Sep 2025:** Joined the School of Automation, Chongqing University, as an Assistant Research Fellow.
+- **Aug 2025:** Our paper "Large-Signal Stability Analysis and Improvement Strategy for Fuel Cell/Battery/Supercapacitor-Based Hybrid Power Supply System of Transportation Electrification Systems" has been accepted by *IEEE JESTPE*.
 
 ## Contact
 
