@@ -13,8 +13,6 @@ I received my Ph.D. in Control Science and Engineering from Chongqing University
 
 ## Research interests
 
-My research focuses on:
-
 - **Heterogeneous Swarm-Source Cooperative Power Supply Technology for Autonomous Unmanned Systems**
 (Energy Management, Nonlinear Control, Data-Driven Time-Series Situation Deduction).
 - **Energy Management Technology for Microgrids with Multi-Type Energy Storage Systems**
@@ -24,7 +22,7 @@ My research focuses on:
 ## Recent highlights
 
 - **Oct 2026:** Our paper "基于动态安全功率区间的直流微电网多源协调控制" has been accepted by **控制与决策**.
-- **Sep 2026:** Awarded the **General Program of the Natural Science Foundation of Chongqing, China**.
+- **Sep 2026:** Awarded the **General Program of the Natural Science Foundation of Chongqing**.
 - **Sep 2026:** Awarded the **Key Program of the Open Fund, Tianjin Key Laboratory of Aeronautical Power Distribution Systems**.
 - **Aug 2026:** Our paper "A CLF-CBF-QP Based Safety-Constrained Control Strategy for Bidirectional Boost Converters in More Electric Aircraft Power Systems" received the **Best Poster Award** at The 1st IEEE Workshop on Power Electronics for Aerospace Applications in Asia (IEEE PEASA-Asia 2026).
 - **May 2026:** Our paper "Large-Signal Stability Assessment of Onboard Hybrid Power Supply Systems Based on Region of Attraction Estimation" has been accepted by **IEEE Transactions on Industrial Electronics**.
