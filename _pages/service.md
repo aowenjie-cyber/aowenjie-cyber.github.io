@@ -13,8 +13,6 @@ Member of **IEEE P3797 Guide for Control of Electric Vehicle Battery Swap Statio
 
 Secretary of **IEEE P3798 Guide for Coordinated Operation of Electric Vehicle Battery Swap Stations with Integrated Photovoltaic Systems**.
 
-Committee Member, Young Professionals Committee, China Power Supply Society (CPSS).
-
 ## Journal reviewing
 
 Reviewer for journals including:
