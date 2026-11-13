@@ -25,6 +25,8 @@ Reviewer for journals including:
 
 **IEEE Transactions on Transportation Electrification**.
 
+**IEEE Journal of Emerging and Selected Topics in Power Electronics**.
+
 **IEEE Journal of Emerging and Selected Topics in Industrial Electronics**.
 
 ## Conference session chair
