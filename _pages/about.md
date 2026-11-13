@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Postdoc Fellow** at the School of Automation, Chongqing University, working in Prof. Yongduan Song's team at the Institute of Systems Intelligence and Control. I joined Chongqing University in September 2025.
+I am a **Postdoc Fellow** at the School of Automation, Chongqing University, working in Prof. Yongduan Song's team at the Institute of Systems Intelligence and Control. I joined Chongqing University in September 2025.
 
 I received my Ph.D. in Control Science and Engineering from Chongqing University in 2025, supervised by Prof. Jiawei Chen, and my B.Eng. in Automation from Southeast University in 2019, advised by Prof. Jun Yang.
 
