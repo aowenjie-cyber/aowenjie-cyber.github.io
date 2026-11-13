@@ -24,10 +24,10 @@ repository               : "aowenjie-cyber/aowenjie-cyber.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Wenjie Ao"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Research Fellow"
+  bio              : "Postdoc Fellow"
   location         : "Chongqing, China"
   employer         : "Chongqing University"
   uri              : # URL
