@@ -13,7 +13,7 @@ I received my Ph.D. in Control Science and Engineering from Chongqing University
 
 ## Research interests
 
-My research focuses on **multi-source hybrid power supply systems for transportation electrification**, particularly:
+My research focuses on:
 
 - **Heterogeneous Swarm-Source Cooperative Power Supply Technology for Autonomous Unmanned Systems**
 (Energy Management, Nonlinear Control, Data-Driven Time-Series Situation Deduction).

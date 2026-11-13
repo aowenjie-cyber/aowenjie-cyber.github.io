@@ -7,7 +7,8 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <style>
-  .page__content p {
+  .page__content p{% if page.url == '/' %},
+  .page__content ul > li{% endif %} {
       text-align: justify;
   }
   </style>
