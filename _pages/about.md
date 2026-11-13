@@ -23,13 +23,12 @@ My research focuses on **multi-source hybrid power supply systems for transporta
 
 ## Recent highlights
 
-- **Oct 2026:** Our paper "基于动态安全功率区间的直流微电网多源协调控制" has been accepted by *控制与决策*.
-- **Sep 2026:** Awarded the General Program of the Natural Science Foundation of Chongqing, China.
-- **Sep 2026:** Awarded the Key Program of the Open Fund, Tianjin Key Laboratory of Aeronautical Power Distribution Systems.
-- **May 2026:** Our paper "Large-Signal Stability Assessment of Onboard Hybrid Power Supply Systems Based on Region of Attraction Estimation" has been accepted by *IEEE TIE*.
-- **May 2026:** Our paper "Large-Signal Stabilization of On-Board Hybrid Power Supply Systems Supplying Constant Power Load Based on Composite Control" has been accepted by *IEEE TIE*.
-- **Sep 2025:** Joined the School of Automation, Chongqing University, as an Assistant Research Fellow.
-- **Aug 2025:** Our paper "Large-Signal Stability Analysis and Improvement Strategy for Fuel Cell/Battery/Supercapacitor-Based Hybrid Power Supply System of Transportation Electrification Systems" has been accepted by *IEEE JESTPE*.
+- **Oct 2026:** Our paper "基于动态安全功率区间的直流微电网多源协调控制" has been accepted by **控制与决策**.
+- **Sep 2026:** Awarded the **General Program of the Natural Science Foundation of Chongqing, China**.
+- **Sep 2026:** Awarded the **Key Program of the Open Fund, Tianjin Key Laboratory of Aeronautical Power Distribution Systems**.
+- **Aug 2026:** Our paper "A CLF-CBF-QP Based Safety-Constrained Control Strategy for Bidirectional Boost Converters in More Electric Aircraft Power Systems" received the **Best Poster Award** at The 1st IEEE Workshop on Power Electronics for Aerospace Applications in Asia (IEEE PEASA-Asia 2026).
+- **May 2026:** Our paper "Large-Signal Stability Assessment of Onboard Hybrid Power Supply Systems Based on Region of Attraction Estimation" has been accepted by **IEEE Transactions on Industrial Electronics**.
+- **May 2026:** Our paper "Large-Signal Stabilization of On-Board Hybrid Power Supply Systems Supplying Constant Power Load Based on Composite Control" has been accepted by **IEEE Transactions on Industrial Electronics**.
 
 ## Contact
 
