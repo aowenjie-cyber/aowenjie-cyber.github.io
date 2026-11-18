@@ -9,7 +9,7 @@ redirect_from:
 
 Dr Ao is currently a Postdoctoral Fellow at the School of Automation, Chongqing University, where he has been working in Prof. Yongduan Song’s team at the Institute of Systems Intelligence and Control since 2025. He obtained his Ph.D. in Control Science and Engineering from Chongqing University in 2025 (supervised by Prof. Jiawei Chen) and his B.Eng. in Automation from Southeast University in 2019 (advised by Prof. Jun Yang).
 
-His research interests include heterogeneous swarm-source cooperative power supply technology for autonomous unmanned systems (covering energy management, nonlinear control, and data-driven time-series situation deduction), as well as energy management technology for microgrids integrated with multi-type energy storage systems, focusing on multi-time-scale coordinated control, autonomous decision-making, and resilience assessment and enhancement.
+His research interests focus on the dynamic power supply limits and autonomous resilience of complex electrified systems, covering stability analysis of power-electronized power systems, safety-critical control, heterogeneous hybrid power supply systems, and relevant applications in electric propulsion aircraft..
 
 
 ## News
