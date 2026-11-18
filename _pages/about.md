@@ -7,19 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Postdoc Fellow** at the School of Automation, Chongqing University, working in Prof. Yongduan Song's team at the Institute of Systems Intelligence and Control. I joined Chongqing University in September 2025.
+Dr Ao is currently a Postdoctoral Fellow at the School of Automation, Chongqing University, where he has been working in Prof. Yongduan Song’s team at the Institute of Systems Intelligence and Control since 2025. He obtained his Ph.D. in Control Science and Engineering from Chongqing University in 2025 (supervised by Prof. Jiawei Chen) and his B.Eng. in Automation from Southeast University in 2019 (advised by Prof. Jun Yang).
 
-I received my Ph.D. in Control Science and Engineering from Chongqing University in 2025, supervised by Prof. Jiawei Chen, and my B.Eng. in Automation from Southeast University in 2019, advised by Prof. Jun Yang.
-
-## Research interests
-
-- **Heterogeneous Swarm-Source Cooperative Power Supply Technology for Autonomous Unmanned Systems**
-(Energy Management, Nonlinear Control, Data-Driven Time-Series Situation Deduction).
-- **Energy Management Technology for Microgrids with Multi-Type Energy Storage Systems**
-(Multi-Time-Scale Coordinated Control and Autonomous Decision-Making, Resilience Assessment and Enhancement).
+His research interests include heterogeneous swarm-source cooperative power supply technology for autonomous unmanned systems (covering energy management, nonlinear control, and data-driven time-series situation deduction), as well as energy management technology for microgrids integrated with multi-type energy storage systems, focusing on multi-time-scale coordinated control, autonomous decision-making, and resilience assessment and enhancement.
 
 
-## Recent highlights
+## News
 
 - **Oct 2026:** Our paper "基于动态安全功率区间的直流微电网多源协调控制" has been accepted by **控制与决策**.
 - **Sep 2026:** Awarded the **General Program of the Natural Science Foundation of Chongqing**.
