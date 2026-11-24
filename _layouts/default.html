@@ -11,6 +11,14 @@ layout: compress
   .page__content ul > li{% endif %} {
       text-align: justify;
   }
+  {% if page.url == '/' %}
+  .page__content #news + ul > li > strong:first-child {
+      display: inline-block;
+      width: 5.5em;
+      text-align: left;
+      white-space: nowrap;
+  }
+  {% endif %}
   </style>
   <head>
     {% include head.html %}
