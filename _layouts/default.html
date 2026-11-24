@@ -13,10 +13,14 @@ layout: compress
   }
   {% if page.url == '/' %}
   .page__content #news + ul > li {
+      position: relative;
+      padding-left: 6em;
       text-align: left;
   }
   .page__content #news + ul > li > strong:first-child {
-      display: inline-block;
+      position: absolute;
+      top: 0;
+      left: 0;
       width: 5.5em;
       text-align: left;
       white-space: nowrap;
