@@ -12,6 +12,9 @@ layout: compress
       text-align: justify;
   }
   {% if page.url == '/' %}
+  .page__content #news + ul > li {
+      text-align: left;
+  }
   .page__content #news + ul > li > strong:first-child {
       display: inline-block;
       width: 5.5em;
