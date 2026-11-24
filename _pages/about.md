@@ -14,7 +14,7 @@ His research interests focus on the dynamic power supply limits and autonomous r
 
 ## News
 
-- **Nov 2026:** Awarded the General Grant of the China Postdoctoral Science Foundation.
+- **Nov 2026:** Awarded the **General Grant of the China Postdoctoral Science Foundation**.
 - **Nov 2026:** Our paper "Empirical Chance-Constrained Sizing of a Control-Coupled UAV Hybrid Power Supply System Under Mission Uncertainty" has been accepted by **IEEE Transactions on Transportation Electrification**.
 - **Oct 2026:** Our paper "基于动态安全功率区间的直流微电网多源协调控制" has been accepted by **控制与决策**.
 - **Sep 2026:** Awarded the **General Program of the Natural Science Foundation of Chongqing**.
