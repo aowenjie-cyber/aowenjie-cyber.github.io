@@ -7,6 +7,7 @@ authors:
   - "Qingchao Song"
   - "Fei Gao"
   - "Olimjon Toirov"
+doi: "10.1109/TTE.2026.3757887"
 collection: "publications"
 category: "manuscripts"
 permalink: "/publication/JournalPaper202604"
